@@ -4,10 +4,10 @@ Hi, I am a 15 year-old programmer from Wellington New Zealand, and I'm intereste
 
 ```C
 const char *my_interests[] = {
-    "Recreational Programming",
-    "Game Engines",
-    "Rendering Systems",
-    "C"
+    "Recreational programming",
+    "c",
+    "Embedded systems programming",
+    "Real-time rendering"
 };
 ```
 ---
